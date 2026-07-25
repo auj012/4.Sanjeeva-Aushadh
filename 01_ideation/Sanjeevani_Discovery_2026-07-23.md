@@ -2,7 +2,7 @@
 
 **Author:** Ushasree Jakilinki
 **Date:** 2026-07-23
-**Status:** Discovery complete — this document precedes and grounds the PRD.
+**Status:** Discovery WIP — this document precedes and grounds the PRD.
 
 
 ---
