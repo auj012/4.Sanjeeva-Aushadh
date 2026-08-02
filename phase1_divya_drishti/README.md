@@ -11,12 +11,10 @@
 
 ## The problem
 
-**Start with the bigger picture — the food allergy epidemic.**
-
+![Alt text for the infographic](./FAREEpimedic.png)
 
 Food allergies affect **~33M Americans** — about 1 in 10 adults and 1 in 13 children. Reactions are serious and rising: more than half of adults with food allergies have had a severe reaction, and claim lines for anaphylactic food reactions rose **377% (2007–2016)**. The burden is roughly **$25B a year and ~3.4M ER visits**.
 
-![The Food Allergy Epidemic — infographic by FARE](assets/food-allergy-epidemic-fare.png)
 
 *Source: FARE (Food Allergy Research & Education), "The Food Allergy Epidemic." Underlying data: Prevalence & Severity of Food Allergies Among US Adults, JAMA Network Open (2019); The Public Health Impact of Parent-Reported Childhood Food Allergies, Pediatrics (2018); FARE Health White Paper (Nov 2017). Reproduced with attribution.*
 
