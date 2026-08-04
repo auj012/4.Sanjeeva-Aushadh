@@ -8,7 +8,7 @@ Inspired by my own experience navigating this gap, the project explores how publ
 
 ---
 <p align="center">
-  <img src="Sanjeevini_Chibi.png" alt="Sanjeevani product lifecycle infographic showing user impact metrics, drug allergen detection workflow, and therapeutic alternatives" width="85%">
+  <img src="Sanjeevani_Chibi.png" alt="Sanjeevani product lifecycle infographic showing user impact metrics, drug allergen detection workflow, and therapeutic alternatives" width="85%">
 </p>
 
 
