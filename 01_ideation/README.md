@@ -136,7 +136,7 @@ Every pain below is taken directly from §4.
 
 **Why this example matters:** all three share the same active ingredient, so the clinical decision doesn't change — only the excipients and coverage do. Candidate 1 shows why safety alone isn't enough: a medication the patient can't afford is not a solution.
 
-> ⚠️ **Verify before publishing.** Excipient formulations and formulary coverage change, and coverage is plan-specific. Re-check these claims against current DailyMed labeling and the patient's actual plan — which is exactly why the system re-validates rather than caching an answer.
+
 
 ---
 
