@@ -5,7 +5,7 @@
 Sanjeevini Aushad is an applied AI project that addresses a critical gap in medication safety: patients with documented food allergies can still receive medications containing allergenic inactive ingredients because current prescribing and dispensing workflows rarely cross-check excipients against a patient's allergy profile.
 
 Inspired by my own experience navigating this gap, the project explores how publicly available medication data can be transformed into practical clinical decision support that is explainable, auditable, and designed to assist—not replace—clinical decision-making.
-
+ 
 ---
 <p align="center">
   <img src="Sanjeevani_Chibi.png" alt="Sanjeevani product lifecycle infographic showing user impact metrics, drug allergen detection workflow, and therapeutic alternatives" width="85%">
